@@ -22,12 +22,18 @@ This Portfolio is a compilation of all the Data-Science and Data Analysis projec
     - [Ranking of Tennis players](https://github.com/archd3sai/Tennis-Players-Ranking) : Objective of this project is to rank all Tennis Players based on the matches they played in the year of 2018. This project comprises 4 approaches to rank Tennis players and I have tried to make these approaches more robust sequentially.
 
 ## Core Competencies
+
+- **Methodologies**: Bayesian Statistics, Optimization, Deep Learning, Survival Analysis, Time Series Analysis, Regression and Classification Methods, Clustering Techniques, Dimensionality Reduction, Natural Language Processing
+- **Languages**: Python, R, C++, MATLAB 
+- **Databases**: SQL (MySQL, PostgreSQL), NoSQL (MongoDB)
+- **Tools**: Git, AWS, Apache Spark, Hadoop, MapReduce 
+- **Visualization**: Tableau, D3.js, MS Excel
 ```
-**Methodologies**: Bayesian Statistics, Optimization, Deep Learning, Survival Analysis, Time Series Analysis, Regression and Classification Methods, Clustering Techniques, Dimensionality Reduction, Natural Language Processing
-Languages: Python, R, C++, MATLAB 
-**Databases**: SQL (MySQL, PostgreSQL), NoSQL (MongoDB)
-**Tools**: Git, AWS, Apache Spark, Hadoop, MapReduce 
-**Visualization**: Tableau, D3.js, MS Excel
+- Methodologies: Bayesian Statistics, Optimization, Deep Learning, Survival Analysis, Time Series Analysis, Regression and Classification Methods, Clustering Techniques, Dimensionality Reduction, Natural Language Processing
+- Languages: Python, R, C++, MATLAB 
+- Databases: SQL (MySQL, PostgreSQL), NoSQL (MongoDB)
+- Tools: Git, AWS, Apache Spark, Hadoop, MapReduce 
+- Visualization: Tableau, D3.js, MS Excel
 ```
 
   
