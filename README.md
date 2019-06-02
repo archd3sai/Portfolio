@@ -17,7 +17,7 @@ This Portfolio is a compilation of all the Data-Science and Data Analysis projec
   - [Customer Churn Prediction](https://github.com/archd3sai/Customer-Churn-Prediction)
   
   - Ranking Algorithms
-    - [Ranking of NFL teams using Markov-chain methods] (https://github.com/archd3sai/Ranking-of-NFL-Teams-using-Markov-method/blob/master/Ranking%20of%20NFL%20teams%20Report.pdf)
+    - [Ranking of NFL teams using Markov-chain methods](https://github.com/archd3sai/Ranking-of-NFL-Teams-using-Markov-method/blob/master/Ranking%20of%20NFL%20teams%20Report.pdf)
     - [Ranking of Tennis players](https://github.com/archd3sai/Tennis-Players-Ranking)
 
   
