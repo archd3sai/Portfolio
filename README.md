@@ -1,5 +1,8 @@
 # Data Science Portfolio
-This Portfolio is a compilation of all the Data-Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. It also includes my core competencies and my certificates. This portfolio is updated on the regular basis.
+This Portfolio is a compilation of all the Data-Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. It also includes my skills and my certificates.
+
+**Email**: [archdesai.ad@gmail.com]
+**LinkedIn**: [linkedin.com/arch_desai](https://www.linkedin.com/arch_desai)
 
 ## Projects
   - [Survival Analysis of Aircraft Engines](https://github.com/archd3sai/Survival-Analysis-of-Aircraft-Engines) : A Weibull Time-to-event Recurrent Neural Network (WTTE-RNNs) model to find out the remaining useful life of an Aircraft engine based on the past sensor data. The model uses a sequential neural network that can look at historical data and output the two parameters (alpha and beta) that control the shape of the Weibull distribution used to describe time-to-event data.
@@ -28,13 +31,7 @@ This Portfolio is a compilation of all the Data-Science and Data Analysis projec
 - **Databases**: SQL (MySQL, PostgreSQL), NoSQL (MongoDB)
 - **Tools**: Git, AWS, Apache Spark, Hadoop, MapReduce 
 - **Visualization**: Tableau, D3.js, MS Excel
-```
-- Methodologies: Bayesian Statistics, Optimization, Deep Learning, Survival Analysis, Time Series Analysis, Regression and Classification Methods, Clustering Techniques, Dimensionality Reduction, Natural Language Processing
-- Languages: Python, R, C++, MATLAB 
-- Databases: SQL (MySQL, PostgreSQL), NoSQL (MongoDB)
-- Tools: Git, AWS, Apache Spark, Hadoop, MapReduce 
-- Visualization: Tableau, D3.js, MS Excel
-```
+
 
   
     
