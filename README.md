@@ -20,3 +20,20 @@ This Portfolio is a compilation of all the Data-Science and Data Analysis projec
     - Ranking of NFL teams using Markov-chain methods
     - Ranking of Tennis players
     
+## Statistical learning
+  - Dimensionality Reduction
+  
+  - Gradient Descent 
+  
+  - Gradient Ascent
+  
+  - Optimization and Root Finding
+  
+  - Bayesian Statistics
+
+## Core Competencies
+  
+## Certificates 
+  
+  
+    
