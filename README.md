@@ -23,10 +23,6 @@ This Portfolio is a compilation of all the Data-Science and Data Analysis projec
 ## Statistical learning
   - Dimensionality Reduction
   
-  - Gradient Descent 
-  
-  - Gradient Ascent
-  
   - Optimization and Root Finding
   
   - Bayesian Statistics
