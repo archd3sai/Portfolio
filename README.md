@@ -1,9 +1,17 @@
 # Data Science Portfolio - Arch Desai
-This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. It also includes my skills and my MOOC certificates. This portfolio is updated on the regular basis.
+This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio is updated on the regular basis.
 
 **Email**: [archdesai.ad@gmail.com](archdesai.ad@gmail.com)
 
 **LinkedIn**: [linkedin.com/arch_desai](https://www.linkedin.com/in/arch-desai/)
+
+## Core Competencies
+
+- **Methodologies**: Bayesian Statistics, Optimization, Deep Learning, Survival Analysis, Time Series Analysis, Regression and Classification Methods, Clustering Techniques, Dimensionality Reduction, Natural Language Processing
+- **Languages**: Python, R, C++, MATLAB 
+- **Databases**: SQL (MySQL, PostgreSQL), NoSQL (MongoDB)
+- **Tools**: Git, AWS, Apache Spark, Hadoop, MapReduce 
+- **Visualization**: Tableau, D3.js, MS Excel
 
 ## Projects
 - ### Manufacturing
@@ -27,26 +35,6 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
     - [Ranking of NFL teams using Markov-chain methods](https://github.com/archd3sai/Ranking-of-NFL-Teams-using-Markov-method/blob/master/Ranking%20of%20NFL%20teams%20Report.pdf) : In this project I implemented and compared three stationary distribution of Markov-chain based approaches to rank 32 NFL (National Football League) teams from "Best" to "Worst" using the scores of 2007 NFL regular season
     
     - [Ranking of Tennis players](https://github.com/archd3sai/Tennis-Players-Ranking) : Objective of this project is to rank all Tennis Players based on the matches they played in the year of 2018. This project comprises 4 approaches to rank Tennis players and I have tried to make these approaches more robust sequentially.
-
-## Core Competencies
-
-- **Methodologies**: Bayesian Statistics, Optimization, Deep Learning, Survival Analysis, Time Series Analysis, Regression and Classification Methods, Clustering Techniques, Dimensionality Reduction, Natural Language Processing
-- **Languages**: Python, R, C++, MATLAB 
-- **Databases**: SQL (MySQL, PostgreSQL), NoSQL (MongoDB)
-- **Tools**: Git, AWS, Apache Spark, Hadoop, MapReduce 
-- **Visualization**: Tableau, D3.js, MS Excel
-
-## Certificates
-- [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/M5UP9G8AD8B8)
-    - Neural Networks and Deep Learning
-    - Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
-    - Structuring Machine Learning Projects
-    - Convolutional Neural Networks
-    - Sequence Models
-- [Google Analytics for Begineers](https://analytics.google.com/analytics/academy/certificate/kHYtirzEQV29uzNG8xSFXg)
-- [SQL Fundamentals](https://www.sololearn.com/Certificate/1060-12096699/pdf/)
-- Big Data Specialization (Ongoing)
-- Data Visualization with Tableau (Ongoing)
 
   
     
