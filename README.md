@@ -1,4 +1,4 @@
-# Data Science Portfolio
+# Data Science Portfolio - Arch Desai
 This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. It also includes my skills and my MOOC certificates. This portfolio is updated on the regular basis.
 
 ### Contact Me:
