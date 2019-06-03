@@ -5,14 +5,6 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 **LinkedIn**: [linkedin.com/arch_desai](https://www.linkedin.com/in/arch-desai/)
 
-## Core Competencies
-
-- **Methodologies**: Bayesian Statistics, Optimization, Deep Learning, Survival Analysis, Time Series Analysis, Regression and Classification Methods, Clustering Techniques, Dimensionality Reduction, Natural Language Processing
-- **Languages**: Python, R, C++, MATLAB 
-- **Databases**: SQL (MySQL, PostgreSQL), NoSQL (MongoDB)
-- **Tools**: Git, AWS, Apache Spark, Hadoop, MapReduce 
-- **Visualization**: Tableau, D3.js, MS Excel
-
 ## Projects
 - ### Manufacturing
     - [Survival Analysis of Aircraft Engines](https://github.com/archd3sai/Survival-Analysis-of-Aircraft-Engines) : A Weibull Time-to-event Recurrent Neural Network (WTTE-RNNs) model to find out the remaining useful life of an Aircraft engine based on the past sensor data. The model uses a sequential neural network that can look at historical data and output the two parameters (alpha and beta) that control the shape of the Weibull distribution used to describe time-to-event data.
@@ -36,5 +28,11 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
     
     - [Ranking of Tennis players](https://github.com/archd3sai/Tennis-Players-Ranking) : Objective of this project is to rank all Tennis Players based on the matches they played in the year of 2018. This project comprises 4 approaches to rank Tennis players and I have tried to make these approaches more robust sequentially.
 
-  
+ ## Core Competencies
+
+- **Methodologies**: Bayesian Statistics, Optimization, Deep Learning, Survival Analysis, Time Series Analysis, Regression and Classification Methods, Clustering Techniques, Dimensionality Reduction, Natural Language Processing
+- **Languages**: Python, R, C++, MATLAB 
+- **Databases**: SQL (MySQL, PostgreSQL), NoSQL (MongoDB)
+- **Tools**: Git, AWS, Apache Spark, Hadoop, MapReduce 
+- **Visualization**: Tableau, D3.js, MS Excel
     
