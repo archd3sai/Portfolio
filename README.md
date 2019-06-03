@@ -3,7 +3,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 ### Contact Me:
 **Email**: [archdesai.ad@gmail.com](archdesai.ad@gmail.com)
-asdfsa
+
 **LinkedIn**: [linkedin.com/arch_desai](https://www.linkedin.com/arch_desai)
 
 ## Projects
