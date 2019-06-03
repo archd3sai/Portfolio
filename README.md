@@ -1,7 +1,8 @@
 # Data Science Portfolio
 This Portfolio is a compilation of all the Data-Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. It also includes my skills and my certificates.
 
-**Email**: [archdesai.ad@gmail.com]
+### Contact Me:
+**Email**: [archdesai.ad@gmail.com] (archdesai.ad@gmail.com)
 **LinkedIn**: [linkedin.com/arch_desai](https://www.linkedin.com/arch_desai)
 
 ## Projects
@@ -32,6 +33,17 @@ This Portfolio is a compilation of all the Data-Science and Data Analysis projec
 - **Tools**: Git, AWS, Apache Spark, Hadoop, MapReduce 
 - **Visualization**: Tableau, D3.js, MS Excel
 
+## Certificates
+- [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/M5UP9G8AD8B8)
+    - Neural Networks and Deep Learning
+    - Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+    - Structuring Machine Learning Projects
+    - Convolutional Neural Networks
+    - Sequence Models
+- [Google Analytics for Begineers](https://analytics.google.com/analytics/academy/certificate/kHYtirzEQV29uzNG8xSFXg)
+- [SQL Fundamentals](https://www.sololearn.com/Certificate/1060-12096699/pdf/)
+- Big Data Specialization (Ongoing)
+- Data Visualization with Tableau (Ongoing)
 
   
     
