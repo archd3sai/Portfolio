@@ -1,8 +1,8 @@
 # Data Science Portfolio
-This Portfolio is a compilation of all the Data-Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. It also includes my skills and my certificates.
+This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. It also includes my skills and my certificates.
 
 ### Contact Me:
-**Email**: [archdesai.ad@gmail.com] (archdesai.ad@gmail.com)
+**Email**: [archdesai.ad@gmail.com](archdesai.ad@gmail.com)
 **LinkedIn**: [linkedin.com/arch_desai](https://www.linkedin.com/arch_desai)
 
 ## Projects
