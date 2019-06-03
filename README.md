@@ -7,9 +7,10 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 **LinkedIn**: [linkedin.com/arch_desai](https://www.linkedin.com/in/arch-desai/)
 
 ## Projects
-  - [Survival Analysis of Aircraft Engines](https://github.com/archd3sai/Survival-Analysis-of-Aircraft-Engines) : A Weibull Time-to-event Recurrent Neural Network (WTTE-RNNs) model to find out the remaining useful life of an Aircraft engine based on the past sensor data. The model uses a sequential neural network that can look at historical data and output the two parameters (alpha and beta) that control the shape of the Weibull distribution used to describe time-to-event data.
+- Manufacturing
+    - [Survival Analysis of Aircraft Engines](https://github.com/archd3sai/Survival-Analysis-of-Aircraft-Engines) : A Weibull Time-to-event Recurrent Neural Network (WTTE-RNNs) model to find out the remaining useful life of an Aircraft engine based on the past sensor data. The model uses a sequential neural network that can look at historical data and output the two parameters (alpha and beta) that control the shape of the Weibull distribution used to describe time-to-event data.
   
-  - [Machine Predictive Maintenance](https://github.com/archd3sai/Machine-Predictive-Maintenance-PdM-) : In this project I aim to apply predictive maintenance techniques over 100MB of historical data from twenty of the units of a company that failed in the field. My objective is to see if there is a similarity in information of the units who had longest lives or shortest lives and to predict which active units will fail soon.
+    - [Machine Predictive Maintenance](https://github.com/archd3sai/Machine-Predictive-Maintenance-PdM-) : In this project I aim to apply predictive maintenance techniques over 100MB of historical data from twenty of the units of a company that failed in the field. My objective is to see if there is a similarity in information of the units who had longest lives or shortest lives and to predict which active units will fail soon.
   
   - [Hybrid News Articles Recommendation Engine](https://github.com/archd3sai/News-Articles-Recommendation) : A hybrid-filtering personalized news articles recommendation system which can suggest articles from popular news service providers based on reading history of twitter users who share similar interests (Collaborative filtering) and content similarity of the article and user’s tweets (Content-based filtering).
   
