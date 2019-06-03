@@ -4,7 +4,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 ### Contact Me:
 **Email**: [archdesai.ad@gmail.com](archdesai.ad@gmail.com)
 
-**LinkedIn**: [linkedin.com/arch_desai](https://www.linkedin.com/arch_desai)
+**LinkedIn**: [linkedin.com/arch_desai](https://www.linkedin.com/in/arch-desai/)
 
 ## Projects
   - [Survival Analysis of Aircraft Engines](https://github.com/archd3sai/Survival-Analysis-of-Aircraft-Engines) : A Weibull Time-to-event Recurrent Neural Network (WTTE-RNNs) model to find out the remaining useful life of an Aircraft engine based on the past sensor data. The model uses a sequential neural network that can look at historical data and output the two parameters (alpha and beta) that control the shape of the Weibull distribution used to describe time-to-event data.
