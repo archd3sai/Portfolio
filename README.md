@@ -23,8 +23,8 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
     - [Ranking of Tennis players](https://github.com/archd3sai/Tennis-Players-Ranking) : Objective of this project is to rank all Tennis Players based on the matches they played in the year of 2018. This project comprises 4 approaches to rank Tennis players and I have tried to make these approaches more robust sequentially.
     
 - ### Statistics
-    - [Bayesian Statistics](https://github.com/archd3sai/Bayesian-Methods/blob/master/Bayesian%20Statistics.ipynb) : In this project, I explored how bayesian statistics works and how prior assumption affects posterior probabilities. 
-    - [Gaussian Mixture Model and Expectation Maximization](https://github.com/archd3sai/Bayesian-Methods/blob/master/GMM-EM.ipynb): In, this project I implemented Expectation Maximization algorithm to find out true distribution of one dimensional GMM of 2 gaussians.  
+    - [Bayesian Statistics](https://github.com/archd3sai/Bayesian-Methods/blob/master/Bayesian%20Statistics.ipynb) : In this project, I explored how bayesian statistics works and how prior assumption reflects posterior probabilities using Gun control example. 
+    - [Gaussian Mixture Model and Expectation Maximization](https://github.com/archd3sai/Bayesian-Methods/blob/master/GMM-EM.ipynb): In this project, I implemented Expectation Maximization algorithm to find out true distribution of one dimensional GMM of 2 gaussians.  
     
 
  ## Core Competencies
