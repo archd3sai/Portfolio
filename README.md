@@ -1,9 +1,7 @@
 # Data Science Portfolio - Arch Desai
 This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio is updated on the regular basis.
 
-**Email**: [archdesai.ad@gmail.com](archdesai.ad@gmail.com)
-
-**LinkedIn**: [linkedin.com/arch_desai](https://www.linkedin.com/in/arch-desai/)
+- **Email**: [archdesai.ad@gmail.com](archdesai.ad@gmail.com) - **LinkedIn**: [linkedin.com/arch_desai](https://www.linkedin.com/in/arch-desai/)
 
 ## Projects
 - ### Manufacturing
