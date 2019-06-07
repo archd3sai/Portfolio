@@ -6,7 +6,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 ## Projects
 - ### Manufacturing
-    - [Survival Analysis of Aircraft Engines](https://github.com/archd3sai/Survival-Analysis-of-Aircraft-Engines) : A Weibull Time-to-event Recurrent Neural Network (WTTE-RNNs) model to find out the remaining useful life of an Aircraft engine based on the past sensor data. The model uses a sequential neural network that can look at historical data and output the two parameters (alpha and beta) that control the shape of the Weibull distribution used to describe time-to-event data.
+    - [Aircraft Engines RUL Prediction](https://github.com/archd3sai/Aircraft-Engine-RUL-Prediction) : Objective of this project is to built a sequential neural network which can predict the remaining useful life of an engine based on historical sensor data. For this regression problem, I employed keras Long-short-term-memory (LSTM) model with 'relu' activation function and 'rmsprop' optimizer to predict time-to-event.
     - [Machine Predictive Maintenance](https://github.com/archd3sai/Machine-Predictive-Maintenance-PdM-) : In this project I aim to apply predictive maintenance techniques over 100MB of historical data from twenty of the units of a company that failed in the field. My objective is to see if there is a similarity in information of the units who had longest lives or shortest lives and to predict which active units will fail soon.
 
 - ### Consumer Goods and Services
@@ -19,7 +19,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
   - [Loan Default Prediction](https://github.com/archd3sai/Loan-Default-Prediction) : In this project I applied various classification models such as Logistic Regression, Random Forest and LightGBM to to accurately detect and classify consumers who will default the loan. LightGBM resulted into highest accuracy which is 98.89%.
   
 - ### Sports
-    - [Ranking of NFL teams using Markov-chain methods](https://github.com/archd3sai/Ranking-of-NFL-Teams-using-Markov-method/blob/master/Ranking%20of%20NFL%20teams%20Report.pdf) : In this project I implemented and compared three stationary distribution of Markov-chain based approaches to rank 32 NFL (National Football League) teams from "Best" to "Worst" using the scores of 2007 NFL regular season
+    - [Ranking of NFL teams using Markov-chain methods](https://github.com/archd3sai/Ranking-of-NFL-Teams-using-Markov-method/blob/master/Ranking%20of%20NFL%20teams%20Report.pdf) : In this project I implemented and compared three stationary distribution of Markov-chain based approaches to rank 32 NFL (National Football League) teams from "Best" to "Worst" using the scores of 2007 NFL regular season.
     - [Ranking of Tennis players](https://github.com/archd3sai/Tennis-Players-Ranking/blob/master/TennisRanking.ipynb) : Objective of this project is to rank all Tennis Players based on the matches they played in the year of 2018. This project comprises 4 approaches to rank Tennis players and I have tried to make these approaches more robust sequentially.
     
 - ### Statistical Methods
