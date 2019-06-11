@@ -6,6 +6,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 ## Projects
 - ### Manufacturing
+    - [Wind Turbine Power Curve Estimation](https://github.com/archd3sai/Wind-Turbine-Power-Curve-Estimation) : In this project, I have employed various regression techniques to estimate the Power curve of a Wind turbine located on a land. Nonlinear trees based regression methods perform best as true power curve is nonlinear. I have optimized XGBoost using GridSearchCV that yields lowest Test RMSE-6.404. The project also contains good data visualizations.
     - [Aircraft Engines RUL Prediction](https://github.com/archd3sai/Aircraft-Engine-RUL-Prediction) : Objective of this project is to built a sequential neural network which can predict the remaining useful life of an engine based on historical sensor data. For this regression problem, I employed keras Long-short-term-memory (LSTM) model with 'relu' activation function and 'rmsprop' optimizer to predict time-to-event.
     - [Machine Predictive Maintenance](https://github.com/archd3sai/Machine-Predictive-Maintenance-PdM-) : In this project I aim to apply predictive maintenance techniques over 100MB of historical data from twenty of the units of a company that failed in the field. My objective is to see if there is a similarity in information of the units who had longest lives or shortest lives and to predict which active units will fail soon.
 
