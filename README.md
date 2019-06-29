@@ -5,21 +5,22 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 - **LinkedIn**: [linkedin.com/arch_desai](https://www.linkedin.com/in/arch-desai/)
 
 ## Projects
-    - [Hybrid-filtering News Articles Recommendation Engine](https://github.com/archd3sai/News-Articles-Recommendation) : A hybrid-filtering personalized news articles recommendation system which can suggest articles from popular news service providers based on reading history of twitter users who share similar interests (Collaborative filtering) and content similarity of the article and user’s tweets (Content-based filtering).
-    
-    - [Wind Turbine Power Curve Estimation](https://github.com/archd3sai/Wind-Turbine-Power-Curve-Estimation) : In this project, I have employed various regression techniques to estimate the Power curve of a Wind turbine located on a land. Nonlinear trees based regression methods perform best as true power curve is nonlinear. I have optimized XGBoost using GridSearchCV that yields lowest Test RMSE-6.404. The project also contains good data visualizations.
-    
-    - [Customer Churn Analysis and Prediction](https://github.com/archd3sai/Customer-Churn-Analysis-and-Prediction) : In this project I have utilized non-parametric survival analysis methods such as Kaplan-Meier and log-rank test to find out how the likelihood of the customer churn changes over time. I also implementd logistic regression model to accurately predict whether the customer will churn or not and what leads to the attrition. 
-    
-    - [What's the GDP of India?](https://github.com/archd3sai/Predicting-GDP-of-India) : Objective of this project is to perform predictive assesment on the Gross Domestic Product of India through an inferential analysis of various socio-economic factors to find out which predictors contribute most to the GDP.
-    
-    - [Aircraft Engines RUL Prediction](https://github.com/archd3sai/Aircraft-Engine-RUL-Prediction) : Objective of this project is to built a sequential neural network which can predict the remaining useful life of an engine based on historical sensor data. For this regression problem, I employed keras Long-short-term-memory (LSTM) model with 'relu' activation function and 'rmsprop' optimizer to predict time-to-event.
-    
-    - [Machine Predictive Maintenance](https://github.com/archd3sai/Machine-Predictive-Maintenance-PdM-) : In this project I aim to apply predictive maintenance techniques over 100MB of historical data from twenty of the units of a company that failed in the field. My objective is to see if there is a similarity in information of the units who had longest lives or shortest lives and to predict which active units will fail soon.
 
-    - [Loan Default Prediction](https://github.com/archd3sai/Loan-Default-Prediction) : In this project I applied various classification models such as Logistic Regression, Random Forest and LightGBM to to accurately detect and classify consumers who will default the loan. LightGBM resulted into highest accuracy which is 98.89%.
+   - [Hybrid-filtering News Articles Recommendation Engine](https://github.com/archd3sai/News-Articles-Recommendation) : A hybrid-filtering personalized news articles recommendation system which can suggest articles from popular news service providers based on reading history of twitter users who share similar interests (Collaborative filtering) and content similarity of the article and user’s tweets (Content-based filtering).
+    
+   - [Wind Turbine Power Curve Estimation](https://github.com/archd3sai/Wind-Turbine-Power-Curve-Estimation) : In this project, I have employed various regression techniques to estimate the Power curve of a Wind turbine located on a land. Nonlinear trees based regression methods perform best as true power curve is nonlinear. I have optimized XGBoost using GridSearchCV that yields lowest Test RMSE-6.404. The project also contains good data visualizations.
+    
+   - [Customer Churn Analysis and Prediction](https://github.com/archd3sai/Customer-Churn-Analysis-and-Prediction) : In this project I have utilized non-parametric survival analysis methods such as Kaplan-Meier and log-rank test to find out how the likelihood of the customer churn changes over time. I also implementd logistic regression model to accurately predict whether the customer will churn or not and what leads to the attrition. 
+    
+   - [What's the GDP of India?](https://github.com/archd3sai/Predicting-GDP-of-India) : Objective of this project is to perform predictive assesment on the Gross Domestic Product of India through an inferential analysis of various socio-economic factors to find out which predictors contribute most to the GDP.
+    
+   - [Aircraft Engines RUL Prediction](https://github.com/archd3sai/Aircraft-Engine-RUL-Prediction) : Objective of this project is to built a sequential neural network which can predict the remaining useful life of an engine based on historical sensor data. For this regression problem, I employed keras Long-short-term-memory (LSTM) model with 'relu' activation function and 'rmsprop' optimizer to predict time-to-event.
+    
+   - [Machine Predictive Maintenance](https://github.com/archd3sai/Machine-Predictive-Maintenance-PdM-) : In this project I aim to apply predictive maintenance techniques over 100MB of historical data from twenty of the units of a company that failed in the field. My objective is to see if there is a similarity in information of the units who had longest lives or shortest lives and to predict which active units will fail soon.
+
+   - [Loan Default Prediction](https://github.com/archd3sai/Loan-Default-Prediction) : In this project I applied various classification models such as Logistic Regression, Random Forest and LightGBM to to accurately detect and classify consumers who will default the loan. LightGBM resulted into highest accuracy which is 98.89%.
   
-    - [Hourly Energy Consumption Prediction](https://github.com/archd3sai/Hourly-Energy-Consumption-Prediction) : In this project I used novel models such as XgBoost and Fbprophet on the hourly energy consumption data to accurately predict energy usage in the future. Features are extracted from timestamps to find trends on daily, weekly, monthly, quarterly and yearly basis and Fbprophet model's performance is improved by incorporating public holidays in the analysis.
+   - [Hourly Energy Consumption Prediction](https://github.com/archd3sai/Hourly-Energy-Consumption-Prediction) : In this project I used novel models such as XgBoost and Fbprophet on the hourly energy consumption data to accurately predict energy usage in the future. Features are extracted from timestamps to find trends on daily, weekly, monthly, quarterly and yearly basis and Fbprophet model's performance is improved by incorporating public holidays in the analysis.
 
 ## Micro Projects
 - ### Ranking Algorithms
@@ -39,4 +40,3 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 - **Databases**: SQL (MySQL, PostgreSQL), NoSQL (MongoDB)
 - **Tools**: Git, AWS, Apache Spark, Hadoop, MapReduce 
 - **Visualization**: Tableau, D3.js, MS Excel
-    
