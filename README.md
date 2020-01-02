@@ -35,8 +35,6 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
  ## Core Competencies
 
-- **Methodologies**: Bayesian Statistics, Optimization, Deep Learning, Survival Analysis, Time Series Analysis, Regression and Classification Methods, Clustering Techniques, Dimensionality Reduction, Natural Language Processing
-- **Languages**: Python, R, C++, MATLAB 
-- **Databases**: SQL (MySQL, PostgreSQL), NoSQL (MongoDB)
-- **Tools**: Git, AWS, Apache Spark, Hadoop, MapReduce 
-- **Visualization**: Tableau, D3.js, MS Excel
+- **Methodologies**: Regression, Classification, Clustering, Dimensionality Reduction, Time Series Analysis, Deep Learning, Natural Language Processing
+- **Languages**: Python, R, SQL, C++, MATLAB 
+- **Tools**: Git, Apache Spark, Hadoop, MapReduce,Tableau, MS Excel
