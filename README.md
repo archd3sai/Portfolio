@@ -10,7 +10,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
     
    - [Wind Turbine Power Curve Estimation](https://github.com/archd3sai/Wind-Turbine-Power-Curve-Estimation) : In this project, I have employed various regression techniques to estimate the Power curve of a Wind turbine located on a land. Nonlinear trees based regression methods perform best as true power curve is nonlinear. I have optimized XGBoost using GridSearchCV that yields lowest Test RMSE-6.404. The project also contains good data visualizations.
     
-   - [Customer Churn Analysis and Prediction](https://github.com/archd3sai/Customer-Churn-Analysis-and-Prediction) : In this project I have utilized non-parametric survival analysis methods such as Kaplan-Meier and log-rank test to find out how the likelihood of the customer churn changes over time. I also implementd logistic regression model to accurately predict whether the customer will churn or not and what leads to the attrition. 
+   - [Customer Survival Analysis and Churn Prediction](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction) : In this project I have utilized non-parametric survival analysis methods such as Kaplan-Meier and log-rank test to find out how the likelihood of the customer churn changes over time. I also implementd logistic regression model to accurately predict whether the customer will churn or not and what leads to the attrition. 
     
    - [What's the GDP of India?](https://github.com/archd3sai/Predicting-GDP-of-India) : Objective of this project is to perform predictive assesment on the Gross Domestic Product of India through an inferential analysis of various socio-economic factors to find out which predictors contribute most to the GDP.
     
