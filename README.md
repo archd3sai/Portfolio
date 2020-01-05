@@ -3,6 +3,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 - **Email**: [archdesai.ad@gmail.com](archdesai.ad@gmail.com)
 - **LinkedIn**: [linkedin.com/arch_desai](https://www.linkedin.com/in/arch-desai/)
+- **Website**: [archdesaiad.wixsite.com/portfolio](https://archdesaiad.wixsite.com/portfolio)
 
 ## Projects
 
