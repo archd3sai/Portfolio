@@ -48,6 +48,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 - [Apache PySpark Training By Linkedin](https://github.com/archd3sai/Data-Science-Portfolio-Arch-Desai/blob/master/Certificates/CertificateOfCompletion_Apache%20Pyspark%20By%20Example%20(2).pdf)
 - [SQL Essential Training By Linkedin](https://github.com/archd3sai/Data-Science-Portfolio-Arch-Desai/blob/master/Certificates/CertificateOfCompletion_Sql%20Essential%20Training%202018%20(1).pdf)
 - [SQL Test By Testdome](https://www.testdome.com/cert/24cd496af7a24a8489a1fd5de791c392)
+- [Data Science Test By Testdome](https://www.testdome.com/cert/124165d7386d4f76be84c240e0547bd3)
 - [Deep Learning Specialization By deeplearning.ai](https://github.com/archd3sai/Data-Science-Portfolio-Arch-Desai/blob/master/Certificates/Deep%20Learning%20Specialization.pdf)
     - [Neural Networks and Deep Learning](https://github.com/archd3sai/Data-Science-Portfolio-Arch-Desai/blob/master/Certificates/Neural%20Networks%20and%20Deep%20Learning.pdf)
     - [Structuring Machine Learning Projects](https://github.com/archd3sai/Data-Science-Portfolio-Arch-Desai/blob/master/Certificates/Structuring%20Machine%20Learning%20Projects.pdf)
