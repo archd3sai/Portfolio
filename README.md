@@ -34,7 +34,7 @@ In this project I have utilized non-parametric survival analysis methods such as
 
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/phase1.jpg"> **[Multivariate Phase 1 Analysis](https://github.com/archd3sai/Multivariate-Phase-1-Analysis)** 
 
-Objective of this project is to identify the in-control data points and eliminate out of control data points to set up distribution parameters for the future monitoring of manufacturing process. I utilized PCA for dimension reduction and Hotelling T2 control chart and m-CUSUM control charts to established mean and variance matrices.
+Objective of this project is to identify the in-control data points and eliminate out of control data points to set up distribution parameters to monitor future manufacturing process. I utilized PCA for dimension reduction and Hotelling T2 control chart and m-CUSUM control chart to established mean and variance matrices.
 
 <br />
 
