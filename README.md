@@ -22,7 +22,7 @@ In this project, I have employed various regression techniques to estimate the P
 
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/instacart.jpeg"> **[Instacart Market Basket Analysis](https://github.com/archd3sai/Instacart-Market-Basket-Analysis)**
 
-The objective of this project is to analyze the anonymized data of 3 million grocery orders from more than 200,000 Instacart users open sourced by Instacart to study customer purchase pattern. I performed customer segmentation and affinity analysis using Apriori algorithm to uncover associations between products and calculate reorder probabilities.
+The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users open sourced by Instacart to study customer purchase pattern. I performed customer segmentation and affinity analysis using Apriori algorithm to uncover products associations and calculate reorder probabilities.
 
 <br />
 
@@ -34,7 +34,7 @@ In this project I have utilized non-parametric survival analysis methods such as
 
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/phase1.jpg"> **[Multivariate Phase 1 Analysis](https://github.com/archd3sai/Multivariate-Phase-1-Analysis)** 
 
-Objective of this project is to identify the in-control data points and eliminate out of control data points to set up distribution parameters for the future monitoring of manufacturing process. For this I utilized PCA for dimension reduction and Hotelling T2 control chart and m-CUSUM control charts to established mean and variance matrices.
+Objective of this project is to identify the in-control data points and eliminate out of control data points to set up distribution parameters for the future monitoring of manufacturing process. I utilized PCA for dimension reduction and Hotelling T2 control chart and m-CUSUM control charts to established mean and variance matrices.
 
 <br />
 
