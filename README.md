@@ -24,7 +24,7 @@ In this project, I have employed various regression techniques to estimate the P
 
 **[Instacart Market Basket Analysis](https://github.com/archd3sai/Instacart-Market-Basket-Analysis)**
 
-The objective of this project is to predict which previously purchased products will be in a user’s next order using the anonymized data of 3 million grocery orders from more than 200,000 Instacart users open sourced by Instacart.
+The objective of this project is to predict which previously purchased products will be in a user’s next order using the anonymized data of 3 million grocery orders from more than 200,000 Instacart users open sourced by Instacart.                                                                                                                                         
 
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg">
 
@@ -36,7 +36,7 @@ In this project I have utilized non-parametric survival analysis methods such as
 
 **[Multivariate Phase 1 Analysis](https://github.com/archd3sai/Multivariate-Phase-1-Analysis)** 
 
-Objective of this project is to identify the in-control data points and eliminate out of control data points to set up distribution parameters for the future monitoring of manufacturing process. 
+Objective of this project is to identify the in-control data points and eliminate out of control data points to set up distribution parameters for the future monitoring of manufacturing process.                                                                                                                                   
 
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/gdp.jpg">
 
