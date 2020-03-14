@@ -13,50 +13,50 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 A hybrid-filtering personalized news articles recommendation system which can suggest articles from popular news service providers based on reading history of twitter users who share similar interests (Collaborative filtering) and content similarity of the article and user’s tweets (Content-based filtering).
 
 <br/>
-<img align="right" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/960x0.jpg">
 
+<img align="right" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/960x0.jpg">
 **[Wind Turbine Power Curve Estimation](https://github.com/archd3sai/Wind-Turbine-Power-Curve-Estimation)** 
 
 In this project, I have employed various regression techniques to estimate the Power curve of a Wind turbine located on a land. Nonlinear trees based regression methods perform best as true power curve is nonlinear. I have optimized XGBoost using GridSearchCV that yields lowest Test RMSE-6.404. The project also contains good data visualizations.
 
 <br/>
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/instacart.jpeg">
 
+<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/instacart.jpeg">
 **[Instacart Market Basket Analysis](https://github.com/archd3sai/Instacart-Market-Basket-Analysis)**
 
 The objective of this project is to predict which previously purchased products will be in a user’s next order using the anonymized data of 3 million grocery orders from more than 200,000 Instacart users open sourced by Instacart. 
 
 <br/>
-<img align="right" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg">
 
+<img align="right" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg">
 **[Customer Survival Analysis and Churn Prediction](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
 
 In this project I have utilized non-parametric survival analysis methods such as Kaplan-Meier and log-rank test to find out how the likelihood of the customer churn changes over time. I also implementd logistic regression model to accurately predict whether the customer will churn or not and what leads to the attrition. 
 
 <br/>
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/phase1.jpg">
 
+<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/phase1.jpg">
 **[Multivariate Phase 1 Analysis](https://github.com/archd3sai/Multivariate-Phase-1-Analysis)** 
 
 Objective of this project is to identify the in-control data points and eliminate out of control data points to set up distribution parameters for the future monitoring of manufacturing process. 
 
 <br/>
-<img align="right" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/gdp.jpg">
 
+<img align="right" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/gdp.jpg">
 **[What's the GDP of India?](https://github.com/archd3sai/Predicting-GDP-of-India)**
 
 Objective of this project is to perform predictive assesment on the Gross Domestic Product of India through an inferential analysis of various socio-economic factors to find out which predictors contribute most to the GDP.
 
 <br/>
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/airplane.jpeg">
 
+<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/airplane.jpeg">
 **[Aircraft Engines RUL Prediction](https://github.com/archd3sai/Aircraft-Engine-RUL-Prediction)**
 
 Objective of this project is to built a sequential neural network which can predict the remaining useful life of an engine based on historical sensor data. For this regression problem, I employed keras Long-short-term-memory (LSTM) model with 'relu' activation function and 'rmsprop' optimizer to predict time-to-event.
 
 <br/>
-<img align="right" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/loan.jpg">
 
+<img align="right" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/loan.jpg">
 **[Loan Default Prediction](https://github.com/archd3sai/Loan-Default-Prediction)** 
 
 In this project I applied various classification models such as Logistic Regression, Random Forest and LightGBM to to accurately detect and classify consumers who will default the loan. LightGBM resulted into highest accuracy which is 98.89%.
