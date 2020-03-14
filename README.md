@@ -4,8 +4,9 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 - **Email**: [archdesai.ad@gmail.com](archdesai.ad@gmail.com)
 - **LinkedIn**: [linkedin.com/arch_desai](https://www.linkedin.com/in/arch-desai/)
 
-## Projects
+<br/>
 
+## Projects
 
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/1_cEaeMuTvINqIgyYQMSJWUA.jpeg">
 
@@ -19,7 +20,7 @@ A hybrid-filtering personalized news articles recommendation system which can su
 
 **[Wind Turbine Power Curve Estimation](https://github.com/archd3sai/Wind-Turbine-Power-Curve-Estimation)**
 
-In this project, I have employed various regression techniques to estimate the Power curve of a Wind turbine located on a land. Nonlinear trees based regression methods perform best as true power curve is nonlinear. I have optimized XGBoost using GridSearchCV that yields lowest Test RMSE-6.404. The project also contains good data visualizations.<br/>
+In this project, I have employed various regression techniques to estimate the Power curve of a Wind turbine located on a land. Nonlinear trees based regression methods perform best as true power curve is nonlinear. I have optimized XGBoost using GridSearchCV that yields lowest Test RMSE-6.404. The project also contains good data visualizations.
 
 ---
 
@@ -27,7 +28,7 @@ In this project, I have employed various regression techniques to estimate the P
 
 **[Instacart Market Basket Analysis](https://github.com/archd3sai/Instacart-Market-Basket-Analysis)**
 
-The objective of this project is to predict which previously purchased products will be in a user’s next order using the anonymized data of 3 million grocery orders from more than 200,000 Instacart users open sourced by Instacart.<br/> 
+The objective of this project is to predict which previously purchased products will be in a user’s next order using the anonymized data of 3 million grocery orders from more than 200,000 Instacart users open sourced by Instacart.
 
 ---
 
@@ -62,7 +63,6 @@ Objective of this project is to perform predictive assesment on the Gross Domest
 Objective of this project is to built a sequential neural network which can predict the remaining useful life of an engine based on historical sensor data. For this regression problem, I employed keras Long-short-term-memory (LSTM) model with 'relu' activation function and 'rmsprop' optimizer to predict time-to-event.
 
 ---
-
 
 <img align="right" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/loan.jpg">
 
