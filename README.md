@@ -22,7 +22,7 @@ In this project, I have employed various regression techniques to estimate the P
 
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/instacart.jpeg"> **[Instacart Market Basket Analysis](https://github.com/archd3sai/Instacart-Market-Basket-Analysis)**
 
-The objective of this project is to predict which previously purchased products will be in a user’s next order using the anonymized data of 3 million grocery orders from more than 200,000 Instacart users open sourced by Instacart.
+The objective of this project is to analyze the anonymized data of 3 million grocery orders from more than 200,000 Instacart users open sourced by Instacart to study customer purchase pattern. I performed customer segmentation and affinity analysis using Apriori algorithm to uncover associations between products and calculate reorder probabilities.
 
 <br />
 
@@ -34,13 +34,13 @@ In this project I have utilized non-parametric survival analysis methods such as
 
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/phase1.jpg"> **[Multivariate Phase 1 Analysis](https://github.com/archd3sai/Multivariate-Phase-1-Analysis)** 
 
-Objective of this project is to identify the in-control data points and eliminate out of control data points to set up distribution parameters for the future monitoring of manufacturing process.
+Objective of this project is to identify the in-control data points and eliminate out of control data points to set up distribution parameters for the future monitoring of manufacturing process. For this I utilized PCA for dimension reduction and Hotelling T2 control chart and m-CUSUM control charts to established mean and variance matrices.
 
 <br />
 
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/gdp.jpg"> **[What's the GDP of India?](https://github.com/archd3sai/Predicting-GDP-of-India)**
 
-Objective of this project is to perform predictive assesment on the Gross Domestic Product of India through an inferential analysis of various socio-economic factors to find out which predictors contribute most to the GDP.
+Objective of this project is to perform predictive assesment on the Gross Domestic Product of India through an inferential analysis of various socio-economic factors to find out which predictors contribute most to the GDP. Various models are compared and Stepwise Regression model is implemented which resulted in 5.7% Test MSE.
 
 <br />
 
@@ -52,7 +52,7 @@ Objective of this project is to built a sequential neural network which can pred
 
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/loan.jpg"> **[Loan Default Prediction](https://github.com/archd3sai/Loan-Default-Prediction)** 
 
-In this project I applied various classification models such as Logistic Regression, Random Forest and LightGBM to to accurately detect and classify consumers who will default the loan. LightGBM resulted into highest accuracy which is 98.89%.
+In this project I applied various classification models such as Logistic Regression, Random Forest and LightGBM to accurately detect and classify consumers who will default the loan. SMOTE technique is used to combat class imbalance and LightGBM was implemented that resulted into highest accuracy 98.89% and 0.99 F1 Score.
 
 <br />
 
