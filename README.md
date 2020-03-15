@@ -16,7 +16,7 @@ A hybrid-filtering personalized news articles recommendation system which can su
 
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/960x0.jpg"> **[Wind Turbine Power Curve Estimation](https://github.com/archd3sai/Wind-Turbine-Power-Curve-Estimation)**
 
-In this project, I have employed various regression techniques to estimate the Power curve of a Wind turbine located on a land. Nonlinear trees based regression methods perform best as true power curve is nonlinear. I have optimized XGBoost using GridSearchCV that yields lowest Test RMSE-6.404.
+In this project, I have employed various regression techniques to estimate the Power curve of an on-shore Wind turbine. Nonlinear trees based ensemble regression methods perform best as true power curve is nonlinear. I have implemented and optimized XGBoost using GridSearchCV that yields lowest Test RMSE-6.404.
 
 <br />
 
@@ -28,13 +28,13 @@ The objective of this project is to analyze the data of 3 million grocery orders
 
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Customer Survival Analysis and Churn Prediction](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
 
-In this project I have utilized non-parametric survival analysis methods such as Kaplan-Meier and log-rank test to find out how the likelihood of the customer churn changes over time. I also implementd logistic regression model to accurately predict whether the customer will churn or not and what leads to the attrition. 
+In this project I have utilized non-parametric survival analysis methods such as Kaplan-Meier and log-rank test to see how the likelihood of the customer churn changes over time. I also implementd Random Forest to accurately predict the probability of a customer churning and deployed a model using flask web app.  
 
 <br />
 
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/phase1.jpg"> **[Multivariate Phase 1 Analysis](https://github.com/archd3sai/Multivariate-Phase-1-Analysis)** 
 
-Objective of this project is to identify the in-control data points and eliminate out of control data points to set up distribution parameters to monitor manufacturing process. I utilized PCA for dimension reduction and Hotelling T2 control chart and m-CUSUM control chart to established mean and variance matrices.
+Objective of this project is to identify the in-control data points and eliminate out of control data points to set up distribution parameters for manufacturing process monitoring. I utilized PCA for dimension reduction and Hotelling T2 and m-CUSUM control charts to established mean and variance matrices.
 
 <br />
 
@@ -52,7 +52,7 @@ Objective of this project is to built a sequential neural network which can pred
 
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/loan.jpg"> **[Loan Default Prediction](https://github.com/archd3sai/Loan-Default-Prediction)** 
 
-In this project I applied various classification models such as Logistic Regression, Random Forest and LightGBM to accurately detect and classify consumers who will default the loan. SMOTE technique is used to combat class imbalance and LightGBM was implemented that resulted into highest accuracy 98.89% and 0.99 F1 Score.
+In this project I applied various classification models such as Logistic Regression, Random Forest and LightGBM to accurately detect and classify consumers who will default the loan. SMOTE technique is used to combat class imbalance and LightGBM is implemented that resulted into the highest accuracy 98.89% and 0.99 F1 Score.
 
 <br />
 
