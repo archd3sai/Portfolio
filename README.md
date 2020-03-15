@@ -52,6 +52,8 @@ Objective of this project is to built a sequential neural network which can pred
 
 In this project I applied various classification models such as Logistic Regression, Random Forest and LightGBM to accurately detect and classify consumers who will default the loan. SMOTE technique is used to combat class imbalance and LightGBM is implemented that resulted into the highest accuracy 98.89% and 0.99 F1 Score.
 
+<br />
+
 ## Micro Projects
 - ### Ranking Algorithms
     - [Ranking of NFL teams using Markov-chain methods](https://github.com/archd3sai/Ranking-of-NFL-Teams-using-Markov-method/blob/master/Ranking%20of%20NFL%20teams%20Report.pdf) : In this project I implemented and compared three stationary distribution of Markov-chain based approaches to rank 32 NFL (National Football League) teams from "Best" to "Worst" using the scores of 2007 NFL regular season.
@@ -62,7 +64,6 @@ In this project I applied various classification models such as Logistic Regress
     - [Gaussian Mixture Model and Expectation Maximization](https://github.com/archd3sai/Statistical-Methods/blob/master/GMM-EM.ipynb): In this project, I implemented Expectation Maximization algorithm to find out true distribution of one dimensional GMM of 2 gaussians.
     - [Linear Regression](https://github.com/archd3sai/Statistical-Methods/blob/master/Linear%20Regression.ipynb): In this project, I aim to solve linear regression using analytical method and also by implementing gradient descent, stochastic gradient descent and minibatch gradient descent algorithms. 
     - [Neural Network Implementation](https://github.com/archd3sai/Statistical-Methods/blob/master/NN%20Implementation.ipynb) In this project, I implemented simple neural network using forward propogation, backword propogation and optimization functions to predict the customer churn.
-<br/>
  
 ## Core Competencies
 
