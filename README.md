@@ -52,8 +52,6 @@ Objective of this project is to built a sequential neural network which can pred
 
 In this project I applied various classification models such as Logistic Regression, Random Forest and LightGBM to accurately detect and classify consumers who will default the loan. SMOTE technique is used to combat class imbalance and LightGBM is implemented that resulted into the highest accuracy 98.89% and 0.99 F1 Score.
 
-<br />
-
 ## Micro Projects
 - ### Ranking Algorithms
     - [Ranking of NFL teams using Markov-chain methods](https://github.com/archd3sai/Ranking-of-NFL-Teams-using-Markov-method/blob/master/Ranking%20of%20NFL%20teams%20Report.pdf) : In this project I implemented and compared three stationary distribution of Markov-chain based approaches to rank 32 NFL (National Football League) teams from "Best" to "Worst" using the scores of 2007 NFL regular season.
@@ -71,7 +69,6 @@ In this project I applied various classification models such as Logistic Regress
 - **Methodologies**: Regression, Classification, Clustering, Dimension Reduction, Ensemble methods, Deep Learning, Time Series Analysis, Natural Language Processing, Statistics, A/B Testing and Experimentation Design, Big Data Analytics, Explainable AI
 - **Languages**: Python, R, SQL, C++, MATLAB 
 - **Tools**: Git, Apache Spark, Hadoop, MapReduce, Tableau, MS Excel
-<br/>
 
 ## Certificates
 
