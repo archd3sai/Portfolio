@@ -4,8 +4,6 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 - **Email**: [archdesai.ad@gmail.com](archdesai.ad@gmail.com)
 - **LinkedIn**: [linkedin.com/arch_desai](https://www.linkedin.com/in/arch-desai/)
 
-<br/>
-
 ## Projects
 
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/1_cEaeMuTvINqIgyYQMSJWUA.jpeg"> **[Hybrid-filtering News Articles Recommendation Engine](https://github.com/archd3sai/News-Articles-Recommendation)**
