@@ -6,6 +6,12 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 ## Projects
 
+<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Customer Survival Analysis and Churn Prediction](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
+
+In this project I have utilized non-parametric survival analysis methods such as Kaplan-Meier and log-rank test to see how the likelihood of the customer churn changes over time. I also implementd Random Forest to accurately predict the probability of a customer churning and deployed a model using flask web app.  
+
+<br />
+
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/1_cEaeMuTvINqIgyYQMSJWUA.jpeg"> **[Hybrid-filtering News Articles Recommendation Engine](https://github.com/archd3sai/News-Articles-Recommendation)**
  
 A hybrid-filtering personalized news articles recommendation system which can suggest articles from popular news service providers based on reading history of twitter users who share similar interests (Collaborative filtering) and content similarity of the article and user’s tweets (Content-based filtering).
@@ -21,12 +27,6 @@ In this project, I have employed various regression techniques to estimate the P
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/instacart.jpeg"> **[Instacart Market Basket Analysis](https://github.com/archd3sai/Instacart-Market-Basket-Analysis)**
 
 The objective of this project is to analyze the data of 3 million grocery orders from more than 200,000 Instacart users to analyze customer purchase pattern and most popular products. I also performed customer segmentation and affinity analysis for better marketing, Cross-selling, and Upselling.
-
-<br />
-
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Customer Survival Analysis and Churn Prediction](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
-
-In this project I have utilized non-parametric survival analysis methods such as Kaplan-Meier and log-rank test to see how the likelihood of the customer churn changes over time. I also implementd Random Forest to accurately predict the probability of a customer churning and deployed a model using flask web app.  
 
 <br />
 
