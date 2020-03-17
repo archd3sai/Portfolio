@@ -18,15 +18,15 @@ A hybrid-filtering personalized news articles recommendation system which can su
 
 <br />
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/960x0.jpg"> **[Wind Turbine Power Curve Estimation](https://github.com/archd3sai/Wind-Turbine-Power-Curve-Estimation)**
-
-In this project, I have employed various regression techniques to estimate the Power curve of an on-shore Wind turbine. Nonlinear trees based ensemble regression methods perform best as true power curve is nonlinear. I have implemented and optimized XGBoost using GridSearchCV that yields lowest Test RMSE-6.404.
-
-<br />
-
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/instacart.jpeg"> **[Instacart Market Basket Analysis](https://github.com/archd3sai/Instacart-Market-Basket-Analysis)**
 
 The objective of this project is to analyze the data of 3 million grocery orders from more than 200,000 Instacart users to analyze customer purchase pattern and most popular products. I also performed customer segmentation and affinity analysis for better marketing, Cross-selling, and Upselling.
+
+<br />
+
+<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/960x0.jpg"> **[Wind Turbine Power Curve Estimation](https://github.com/archd3sai/Wind-Turbine-Power-Curve-Estimation)**
+
+In this project, I have employed various regression techniques to estimate the Power curve of an on-shore Wind turbine. Nonlinear trees based ensemble regression methods perform best as true power curve is nonlinear. I have implemented and optimized XGBoost using GridSearchCV that yields lowest Test RMSE-6.404.
 
 <br />
 
