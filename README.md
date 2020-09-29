@@ -8,7 +8,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Customer Survival Analysis and Churn Prediction](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
 
-In this project I have utilized non-parametric survival analysis methods such as Kaplan-Meier and log-rank test to see how the likelihood of the customer churn changes over time. I also implementd Random Forest to accurately predict the probability of a customer churning and deployed a model using flask web app.  
+In this project I have utilized survival analysis methods to see how the likelihood of the customer churn changes over time and to calculate expected customer LTV using survival curve. I have also implementd Random Forest to accurately predict the customer churn and deployed a model using flask web app.  
 
 <br />
 
