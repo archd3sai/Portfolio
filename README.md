@@ -20,7 +20,7 @@ A hybrid-filtering personalized news articles recommendation system which can su
 
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/instacart.jpeg"> **[Instacart Market Basket Analysis](https://github.com/archd3sai/Instacart-Market-Basket-Analysis)**
 
-The objective of this project is to analyze the data of 3 million grocery orders from more than 200,000 Instacart users to analyze customer purchase pattern and most popular products. I also performed customer segmentation and affinity analysis for better marketing, Cross-selling, and Upselling.
+The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis is done to study customer purchase pattern and for better products marketing and Cross-selling.
 
 <br />
 
