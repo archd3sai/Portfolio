@@ -32,7 +32,7 @@ In this project I have used models such as RNN, LSTM, 1D-CNN to predict the engi
 
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/960x0.jpg"> **[Wind Turbine Power Curve Estimation](https://github.com/archd3sai/Wind-Turbine-Power-Curve-Estimation)**
 
-In this project, I have employed various regression techniques to estimate the Power curve of an on-shore Wind turbine. Nonlinear trees based ensemble regression methods perform best as true power curve is nonlinear. I have implemented and optimized XGBoost using GridSearchCV that yields lowest Test RMSE-6.404.
+In this project, I have employed regression techniques to estimate the Power curve of an on-shore Wind turbine. Nonlinear trees based ensemble regression methods perform best as true power curve is nonlinear. I have implemented and optimized XGBoost using GridSearchCV that yields lowest Test RMSE-6.404.
 
 <br />
 
