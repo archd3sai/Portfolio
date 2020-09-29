@@ -8,13 +8,13 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Customer Survival Analysis and Churn Prediction](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
 
-In this project I have utilized survival analysis methods to see how the likelihood of the customer churn changes over time and to calculate expected customer LTV using survival curve. I have also implementd Random Forest to accurately predict the customer churn and deployed a model using flask web app.  
+In this project I have used survival analysis methods to see how the likelihood of the customer churn changes over time and to calculate expected customer LTV using survival curve. I have also implementd Random Forest to accurately predict the customer churn and deployed a model using flask.  
 
 <br />
 
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/instacart.jpeg"> **[Instacart Market Basket Analysis](https://github.com/archd3sai/Instacart-Market-Basket-Analysis)**
 
-The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis are done to study customer purchase patterns and for better product marketing and cross-selling.
+The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis are done to study customer purchase patterns.
 
 <br />
 
@@ -26,7 +26,7 @@ A hybrid-filtering personalized news articles recommendation system which can su
 
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/airplane.jpeg"> **[Predictive Maintenance of Aircraft Engine](https://github.com/archd3sai/Predictive-Maintenance-of-Aircraft-Engine)**
 
-In this project I have used models such as RNN, LSTM, 1D-CNN to predict the aircraft engine failure 50 cycles ahead of its time, and also used exponential degradation and similarity-based models to calculate its remaining life. Sensitivity analysis and Shap values are used to understand these backbox models and to calculate feature importance. 
+In this project I have used models such as RNN, LSTM, 1D-CNN to predict the engine failure 50 cycles ahead of its time, and calculated feature importance from them using sensitivity analysis and shap values. Exponential degradation and similarity-based models are also used to calculate its remaining life.
 
 <br />
 
