@@ -8,13 +8,13 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Customer Survival Analysis and Churn Prediction](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
 
-In this project I have used survival analysis methods to see how the likelihood of the customer churn changes over time and to calculate expected customer LTV using survival curve. I have also implementd Random Forest to accurately predict the customer churn and deployed a model using flask.  
+In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku. [App](https://churn-prediction-app.herokuapp.com/)  
 
 <br />
 
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/instacart.jpeg"> **[Instacart Market Basket Analysis](https://github.com/archd3sai/Instacart-Market-Basket-Analysis)**
 
-The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis are done to study customer purchase patterns.
+The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis are also done to study user purchase patterns.
 
 <br />
 
@@ -44,13 +44,13 @@ Objective of this project is to identify the in-control data points and eliminat
 
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/gdp.jpg"> **[What's the GDP of India?](https://github.com/archd3sai/Predicting-GDP-of-India)**
 
-Objective of this project is to perform predictive assesment on the Gross Domestic Product of India through an inferential analysis of various socio-economic factors to find out which predictors contribute most to the GDP. Various models are compared and Stepwise Regression model is implemented which resulted in 5.7% Test MSE.
+Objective of this project is to perform predictive assesment on the GDP of India through an inferential analysis of various socio-economic factors. Various models are compared and Stepwise Regression model is implemented which resulted in 5.7% Test MSE.
 
 <br />
 
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/loan.jpg"> **[Loan Default Prediction](https://github.com/archd3sai/Loan-Default-Prediction)** 
 
-In this project I applied various classification models such as Logistic Regression, Random Forest and LightGBM to accurately detect and classify consumers who will default the loan. SMOTE technique is used to combat class imbalance and LightGBM is implemented that resulted into the highest accuracy 98.89% and 0.99 F1 Score.
+In this project I applied various classification models such as Logistic Regression, Random Forest and LightGBM to detect consumers who will default the loan. SMOTE is used to combat class imbalance and LightGBM is implemented that resulted into the highest accuracy 98.89% and 0.99 F1 Score.
 
 <br />
 
