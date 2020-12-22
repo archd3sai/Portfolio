@@ -1,8 +1,13 @@
 # Data Science Portfolio - Arch Desai
-This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my skills and certificates and it is updated on the regular basis.
+This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
 
 - **Email**: [archdesai.ad@gmail.com](archdesai.ad@gmail.com)
-- **LinkedIn**: [linkedin.com/arch_desai](https://www.linkedin.com/in/arch-desai/)
+- **LinkedIn**: [linkedin.com/arch_desai](https://www.linkedin.com/in/archd3sai/)
+
+## Achievements
+- Publsihed a Paper: Prognosis of Wind Turbine Gearbox Bearing Failures using SCADA and Modeled Data, Proceedings of the Annual Conference of the PHM Society 2020, Vol. 12 No. 1 (2020) [Paper](https://phmpapers.org/index.php/phmconf/article/view/1292)
+- Winner of a TAMU Datathon 2020 among 50+ teams.
+- Recipient of TAMU Scholarship and Fee Waiver for excellent academic performance (4.0 GPA).
 
 ## Projects
 
@@ -73,12 +78,13 @@ In this project I applied various classification models such as Logistic Regress
  
 ## Core Competencies
 
-- **Methodologies**: Regression, Classification, Clustering, Dimension Reduction, Ensemble methods, Deep Learning, Time Series Analysis, Natural Language Processing, Statistics, A/B Testing and Experimentation Design, Big Data Analytics, Explainable AI
-- **Languages**: Python, R, SQL, C++, MATLAB 
-- **Tools**: Git, Apache Spark, Hadoop, MapReduce, Tableau, MS Excel
+- **Methodologies**: Machine Learning, Deep Learning, Time Series Analysis, Natural Language Processing, Statistics, Explainable AI, A/B Testing and Experimentation Design, Big Data Analytics
+- **Languages**: Python (Pandas, Numpy, Scikit-Learn, Scipy, Keras, Matplotlib), R (Dplyr, Tidyr, Caret, Ggplot2), SQL, C++
+- **Tools**: MySQL, Tableau, Git, PySpark, Hadoop, MapReduce, Amazon Web Services (AWS), Flask, MS Excel
 
 ## Certificates
 
+- [Tableau Essential Training By Linkedin](https://github.com/archd3sai/Portfolio/blob/master/Certificates/CertificateOfCompletion_Tableau%20Essential%20Training%202020.1.pdf)
 - [Machine Learning Explainability By Kaggle](https://github.com/archd3sai/Data-Science-Portfolio-Arch-Desai/blob/master/Certificates/Arch%20Desai%20-%20Machine%20Learning%20Explainability.png)
 - [Apache PySpark Training By Linkedin](https://github.com/archd3sai/Data-Science-Portfolio-Arch-Desai/blob/master/Certificates/CertificateOfCompletion_Apache%20Pyspark%20By%20Example%20(2).pdf)
 - [SQL Essential Training By Linkedin](https://github.com/archd3sai/Data-Science-Portfolio-Arch-Desai/blob/master/Certificates/CertificateOfCompletion_Sql%20Essential%20Training%202018%20(1).pdf)
